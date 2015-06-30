@@ -11,5 +11,7 @@ public class App {
     public static void main(String[] args) {
         //this is a test method i just wrote
         System.out.println("This is a guy");
+
+        System.out.println("I love git test");
     }
 }
